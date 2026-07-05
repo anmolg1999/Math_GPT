@@ -8,7 +8,7 @@ from langchain_classic.agents.agent_types import AgentType
 from langchain_classic.agents import Tool, initialize_agent
 from langchain_classic.callbacks import StreamlitCallbackHandler
 
-## Set upi the Stramlit app  
+## Set upi the Stramlit app
 st.set_page_config(page_title="Text To MAth Problem Solver And Data Serach Assistant",page_icon="🧮")
 st.title("Text To Math Problem Solver Uing Google Gemma 2")
 
